@@ -1,4 +1,4 @@
-# Project for Deep Learning Course
+# Multilingual Word Embeddings
 
 
 ## Citations
